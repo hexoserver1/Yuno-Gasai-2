@@ -15,8 +15,10 @@
     "discord.js": "11.3.2"
   },
   "dependencies": {
+    "bluebird": "^3.5.1",
     "discord.js": "git+https://github.com/discordjs/discord.js.git",
     "get-cursor-position": "^1.0.5",
+    "longjohn": "^0.2.12",
     "sqlite3": "^3.1.13"
   },
   "devDependencies": {
